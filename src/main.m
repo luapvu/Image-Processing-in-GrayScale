@@ -1,5 +1,5 @@
 addpath(genpath('functions'));
-addpath(genpath('Images'));
+addpath(genpath('../Images'));
 
 %Read in both images
 image1 = readImg('mugshot1.JPG'); 
